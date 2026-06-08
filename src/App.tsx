@@ -7,7 +7,7 @@ import MyProjects from './pages/MyProjects';
 import Preview from './pages/Preview';
 import Community from './pages/Community';
 import View from './pages/View';
-import Navbar from './pages/Navbar';
+import Navbar from './components/Navbar';
 
 
 const App = () => {
